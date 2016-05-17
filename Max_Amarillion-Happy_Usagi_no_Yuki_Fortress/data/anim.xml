@@ -1,0 +1,293 @@
+<gamedata>
+
+	<anim id='smallblock'>
+		<frame rle='Tunel10001' hotx = '-32' hoty = '-32'/>		
+	</anim>
+	<anim id='carrots'>
+		<frame rle='Carrots_plate0000' hotx = '-32' hoty = '-32', time='20'/>
+		<frame rle='Carrots_plate0001' hotx = '-32' hoty = '-32', time='60'/>
+		<frame rle='Carrots_plate0002' hotx = '-32' hoty = '-32', time='9999'/>		
+	</anim>
+	<anim id='foodbowl'>
+		<frame rle='Bowl_full' hotx = '-32' hoty = '-32', time='20'/>
+		<frame rle='Bowl_half' hotx = '-32' hoty = '-32', time='60'/>
+		<frame rle='Bowl_empty' hotx = '-32' hoty = '-32', time='9999'/>		
+	</anim>
+	<anim id='hay'>
+		<frame rle='Hay0000' hotx = '-32' hoty = '-32', time='20'/>
+		<frame rle='Hay0001' hotx = '-32' hoty = '-32', time='60'/>
+		<frame rle='Hay0002' hotx = '-32' hoty = '-32', time='9999'/>		
+	</anim>
+	<anim id='bigbox'>
+		<frame rle='BigBox' hotx = '-64' hoty = '-64'/>		
+	</anim>
+	
+	<anim id='Bun'>
+	
+		<state>
+			<dir id='n'>
+				<frame rle='bun_back10000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_back10001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='e'>
+				<frame rle='bun10000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun10001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='s'>
+				<frame rle='bun10000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun10001' hotx = '-32' hoty = '-32' time='200'/>
+			</dir>
+			<dir id='w'>
+				<frame rle='bun_back10000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_back10001' hotx = '-32' hoty = '-32' time='200'/>
+			</dir>
+		</state>
+		
+		<state>
+			<dir id='n'>
+				<frame rle='Standing0000' hotx = '-32' hoty = '-32'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='e'>
+				<frame rle='Standing0000' hotx = '-32' hoty = '-32'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='s'>
+				<frame rle='Standing0000' hotx = '-32' hoty = '-32'/>
+			</dir>
+			<dir id='w'>
+				<frame rle='Standing0000' hotx = '-32' hoty = '-32'/>
+			</dir>
+		</state>
+		
+		<state>
+			<dir id='n'>
+				<frame rle='Standing0001' hotx = '-32' hoty = '-32'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='e'>
+				<frame rle='Standing0001' hotx = '-32' hoty = '-32'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='s'>
+				<frame rle='Standing0001' hotx = '-32' hoty = '-32'/>
+			</dir>
+			<dir id='w'>
+				<frame rle='Standing0001' hotx = '-32' hoty = '-32'/>
+			</dir>
+		</state>
+		
+		<state>
+			<dir id='n'>
+				<frame rle='Eating0000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='Eating0001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='e'>
+				<frame rle='Eating0000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='Eating0001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='s'>
+				<frame rle='Eating0000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='Eating0001' hotx = '-32' hoty = '-32' time='200'/>
+			</dir>
+			<dir id='w'>
+				<frame rle='Eating0000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='Eating0001' hotx = '-32' hoty = '-32' time='200'/>
+			</dir>
+		</state>
+
+		<state>
+			<dir id='n'>
+				<frame rle='bun_binky0000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0002' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0001' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0002' hotx = '-32' hoty = '-32' time='200'/>
+			</dir>
+			<dir id='e'>
+				<frame rle='bun_binky0000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0002' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0001' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0002' hotx = '-32' hoty = '-32' time='200'/>
+			</dir>
+			<dir id='s'>
+				<frame rle='bun_binky0000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0001' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0002' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0002' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='w'>
+				<frame rle='bun_binky0000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0001' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0002' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='bun_binky0000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='bun_binky0002' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+			</dir>
+		</state>
+		
+		<state>
+			<dir id='n'>
+				<frame rle='jump_back01' hotx = '-32' hoty = '-32' time='400'>
+					<flip/>
+				</frame>
+				<frame rle='jump_back02' hotx = '-32' hoty = '-32' time='9999'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='e'>
+				<frame rle='jump0000' hotx = '-32' hoty = '-32' time='400'>
+					<flip/>
+				</frame>
+				<frame rle='jump0001' hotx = '-32' hoty = '-32' time='9999'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='s'>
+				<frame rle='jump0000' hotx = '-32' hoty = '-32' time='400'/>
+				<frame rle='jump0001' hotx = '-32' hoty = '-32' time='9999'/>
+			</dir>
+			<dir id='w'>
+				<frame rle='jump_back01' hotx = '-32' hoty = '-32' time='400'/>
+				<frame rle='jump_back02' hotx = '-32' hoty = '-32' time='9999'/>
+			</dir>
+		</state>
+
+		<state>
+			<dir id='n'>
+				<frame rle='Crash0000' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0001' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0002' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0003' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0004' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0005' hotx = '-32' hoty = '-32' time='9999'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='e'>
+				<frame rle='Crash0000' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0001' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0002' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0003' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0004' hotx = '-32' hoty = '-32' time='100'>
+					<flip/>
+				</frame>
+				<frame rle='Crash0005' hotx = '-32' hoty = '-32' time='9999'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='s'>
+				<frame rle='Crash0000' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0001' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0002' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0003' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0004' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0005' hotx = '-32' hoty = '-32' time='9999'/>
+			</dir>
+			<dir id='w'>
+				<frame rle='Crash0000' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0001' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0002' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0003' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0004' hotx = '-32' hoty = '-32' time='100'/>
+				<frame rle='Crash0005' hotx = '-32' hoty = '-32' time='9999'/>
+			</dir>
+		</state>
+
+		<state>
+			<dir id='n'>
+				<frame rle='Sleeping0000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='Sleeping0001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='e'>
+				<frame rle='Sleeping0000' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+				<frame rle='Sleeping0001' hotx = '-32' hoty = '-32' time='200'>
+					<flip/>
+				</frame>
+			</dir>
+			<dir id='s'>
+				<frame rle='Sleeping0000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='Sleeping0001' hotx = '-32' hoty = '-32' time='200'/>
+			</dir>
+			<dir id='w'>
+				<frame rle='Sleeping0000' hotx = '-32' hoty = '-32' time='200'/>
+				<frame rle='Sleeping0001' hotx = '-32' hoty = '-32' time='200'/>
+			</dir>
+		</state>
+						
+	</anim>
+
+</gamedata>

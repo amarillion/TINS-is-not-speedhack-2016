@@ -1,0 +1,21 @@
+Possible game name: Mr Perry's Farm
+
+Set on a farm.
+Everything is narrated with Dr Seuss style poetry.
+Different weather conditions are available (this is how we incorporate snow).
+
+Tile map game, with a setup phase and a play phase.
+In the play phase, you have animals walking around the map.
+In the setup phase, you can place food down to entice the animals - in play phase they pathfind towards the nearest item until it's collected.
+Different animals are attracted by different food.
+
+You also build a machine in the setup phase.
+The machine has a central core and four stubs for adding components to.
+You can use the central core to specify the direction the machine will go first.
+
+In the play phase, the machine will move in the direction indicated.
+Upon hitting something (animal, wall or item), the component doing the hitting will activate.
+Components available are:
+- Bomb (destroys animals and items near it)
+- Localised weather effect (rain speeds animals up; sun slows them down; snow makes them slip around)
+- Direction changer

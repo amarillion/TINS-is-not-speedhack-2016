@@ -1,0 +1,45 @@
+2016-05-15 21:15:08 INFO src/main.rs:71             It's time to play!
+2016-05-15 21:15:11 INFO src/path.rs:81             Searching for 5 4 from 2 2
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 1 2 at 1
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 3 2 at 1
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 2 1 at 1
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 2 3 at 1
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 2 2 at 2
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 4 2 at 2
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 3 1 at 2
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 3 3 at 2
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 2 3 at 3
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 4 3 at 3
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 3 2 at 3
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 3 4 at 3
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 3 3 at 4
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 5 3 at 4
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 4 2 at 4
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 4 4 at 4
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 4 3 at 5
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 6 3 at 5
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 5 2 at 5
+2016-05-15 21:15:11 INFO src/path.rs:97             trying: 5 4 at 5
+2016-05-15 21:15:11 INFO src/path.rs:151            Order { x: 3, y: 2, order_type: MoveTo }
+2016-05-15 21:15:11 INFO src/path.rs:151            Order { x: 3, y: 3, order_type: MoveTo }
+2016-05-15 21:15:11 INFO src/path.rs:151            Order { x: 4, y: 3, order_type: MoveTo }
+2016-05-15 21:15:11 INFO src/path.rs:151            Order { x: 5, y: 3, order_type: MoveTo }
+2016-05-15 21:15:11 INFO src/path.rs:151            Order { x: 5, y: 4, order_type: MoveTo }
+2016-05-15 21:15:11 INFO src/path.rs:154            Done: 5
+2016-05-15 21:15:12 INFO src/path.rs:81             Searching for 5 5 from 5 4
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 4 4 at 1
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 6 4 at 1
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 5 3 at 1
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 5 5 at 1
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 4 3 at 2
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 6 3 at 2
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 5 2 at 2
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 5 4 at 2
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 3 4 at 2
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 5 4 at 2
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 4 3 at 2
+2016-05-15 21:15:12 INFO src/path.rs:97             trying: 4 5 at 2
+2016-05-15 21:15:12 INFO src/path.rs:130            Got (5, 4)
+2016-05-15 21:15:12 INFO src/path.rs:154            Done: 0
+2016-05-15 21:15:16 INFO src/game_ui.rs:103         Going back to menu!
+2016-05-15 21:15:18 INFO src/main.rs:220            All's well that ends well.

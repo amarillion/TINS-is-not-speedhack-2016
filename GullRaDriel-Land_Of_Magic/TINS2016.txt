@@ -1,0 +1,97 @@
+Rules
+
+Additional rules
+
+And yes! here they finally are. The rule-o-matic has decided and this is the result;
+genre requirement
+
+**** There will be 1 genre rule
+
+genre rule #89
+Craftsmanship: The game is centered around crafting items out of components.
+Comments:I think this rule is clear enough, and is applicable to a wide range of genres and settings. For example, a survival game where you have to construct basic tools (e.g a fishing rod), a puzzle game where you have to figure out how the pieces fit together, a space game where you build a rocket and fly to the moon.
+
+Artistic requirements
+
+**** There will be 2 artistical rules
+
+artistical rule #47
+Include dialog in poetic form (rhymed couplets, limerick, haiku) as much as you can
+
+artistical rule #48
+Include snow
+Comments:To be clear, not all text has to be in poetic form, but of course, the more the better. You can pick one style and use it throughout, or mix and match various styles. Wikipedia has a lot of information about Poetic Forms if you need some inspiration.
+
+The snow rule can be interpreted in a large variety of ways: Evil Snowman enemies or Snow particle effects or Snow crystals, etc.
+
+technical requirement
+
+**** There will be 2 technical rules
+
+technical rule #48
+path finding
+
+technical rule #55
+use unicode to display non-english characters (e.g. russian, japanese). If you don't know any of these languages, that doesn't matter. Just use a phrase.
+Comments:Note that for pathfinding, we don't specify what has to find a path - you could make the player find a path though a maze, or you could make a character move from A to B automatically. Also, there is no specific path finding algorithm required, but A* path finding is an obvious candidate.
+
+The unicode text has to be a phrase, you can't just include a unicode snowman (☃) somewhere in your dialog and be done with it. For best results, use a language with a completely different alphabet, and not a language that just uses the latin alphabet with a few accented characters (such as French or Swedish). It would be allowed (but not required) to just translate the game, and make it available e.g. in English and Chinese. If you do so, you should make it easy for reviewers to switch the game language.
+
+bonus
+
+**** There will be 1 bonus rule
+
+bonus rule #3
+Act of Formaldehyde: you can opt out of a rule if instead you decide to follow three other rules from a previous Speedhack/TINS. The rules page containing those rules should still be up for all to see.
+Comments:This rule is optional. If you choose to apply this rule, you may ignore one of the other rules. As far as I can tell, all the previous Speedhack/TINS rule pages are still online Three replacement rules may seem like a lot, but by now there is so much speedhack history to choose from, that you could probably choose any random commercial game, and find three TINS/speedhack rules that match it just by chance.
+
+Retro size rule
+
+Finally, I want to add a reminder that for this competition, the size requirement for the game has been increased to 5Mb (after compression). However, those who manage to make their submission fit within the 400Kb limit of previous competitions, will receive a virtual "honour badge" that will be displayed next to your entry.
+
+Standard rules
+
+1. time: The competition is from Friday 13 May 2016, 12:00 UTC to Monday 16 May 2016, 12:00 UTC. You are not allowed to write code for your entry before or after these times. All entries must be submitted before Monday 16 May 2016, 12:00 GMT to an address that will be provided later (if you know in advance that you won't have an internet connection at that time, perhaps because you have internet at work and not at home, in that case you can get an exemption for this deadline. Please let me know in advance if this is the case for you).
+
+2. size: the entry may not be larger than 5.0 MB, zipped.
+
+3. source: the complete source code must be included with the entry. You don't have to include the source of allegro add-ons, as long as they are easily found on the web. (For a list of common add-on libraries, see the allegro.cc resource directory). And of course you don't have to include the source to Allegro.
+
+4. code reuse Because reusing code is an essential hacking skill, You can re-use any code that:
+
+You are legally able to do so (your own, GPLed, giftware, public domain or any other Free Software licence) AND
+Was available and easily accessible online at least two weeks before the start of the competition This means that until two weeks before the start of the competition you may still upload your own code (e.g. initialization code, utility classes) that could come in handy during the competition.
+Also, you are obliged to make clear what parts of your entry you re-used, preferably in a readme.txt that accompanies your entry.
+5. Allegro & other libs. The game may make use of Allegro add-on libs or other libs as long as they are portable. The game must make use of Allegro.
+
+6. programming language you may use any programming language that has allegro bindings.
+
+7. portability. Your entry should be trivial to port to any platform that Allegro supports (that means including Windows, Linux and Mac OS X). This means that you are not allowed to use any OS-specific features in your game (Essentially you should aim to make your entry compile out of the box on all platforms, but this can be hard to realize for people who don't have access to those platforms).
+
+8. additional rules. There will be additional rules that are announced at Friday 13 May 2016, 12:00. These rules come in four categories: Genre Requirements, Technical requirements, Artistic requirements and Bonus rules.
+
+9. reviewing and deciding a winner. To ensure that each entry will be reviewed, each entrant will be assigned two entries to review and six entries to grade. Awards will be assigned based on these grades. There will be awards in the following categories:
+
+Best overall
+
+Best implementation of technical requirements
+
+Best implementation of artistical requirements
+
+Best implementation of genre requirements
+
+Other Important Info
+
+You can assume that everyone will have a copy of the latest stable Allegro library (standard installation) installed. You do not need to supply one. You should consider uploading binaries for people who have problems compiling the source onto your own website. I will be checking that the binary and source match up, so adding enhancements to the 'competition binary' is not permitted..
+
+If source code is reused from legal sources (your own, GPLed, public domain) you should declare this and what changes have been made, so that your work can be properly assessed for the voting.
+
+People should keep a informative and interesting account of their development through the competition. This can be sent after the competition for those people with no Email over the weekend. This does not affect your space requirement.
+
+There will be a mailinglist for participants, where you can easily drop a message to all participants. The mailinglist will be closed a few months after the competition. Experience has taught that there are always last minute bug fixes after the competition, this mailinglist will be the place to announce them.
+
+As always, a web-based speedhack log facility will be available during the competition.
+
+You can make use of all information sources, mailing lists as you see fit. This is not an exam! :-)
+
+Any other questions? Send mail to me and keep working! I'll get back to you as soon as I can.. :-)

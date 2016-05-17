@@ -1,0 +1,87 @@
+genre requirement
+
+**** There will be 1 genre rule
+
+genre rule #89
+Craftsmanship: The game is centered around crafting items out of components.
+
+Comments:I think this rule is clear enough, and is applicable to a wide range
+ of genres and settings. For example, a survival game where you have to
+ construct basic tools (e.g a fishing rod), a puzzle game where you have to
+ figure out how the pieces fit together, a space game where you build a rocket
+ and fly to the moon.
+
+
+
+Artistic requirements
+
+**** There will be 2 artistical rules
+
+artistical rule #47
+Include dialog in poetic form (rhymed couplets, limerick, haiku) as much as you
+can
+
+artistical rule #48
+Include snow
+
+Comments:To be clear, not all text has to be in poetic form, but of course,
+ the more the better. You can pick one style and use it throughout, or mix and
+ match various styles. Wikipedia has a lot of information about Poetic Forms if
+ you need some inspiration.
+
+ The snow rule can be interpreted in a large variety of ways: Evil Snowman
+ enemies or Snow particle effects or Snow crystals, etc.
+
+
+
+technical requirement
+
+**** There will be 2 technical rules
+
+technical rule #48
+path finding
+
+technical rule #55
+use unicode to display non-english characters (e.g. russian, japanese). If you
+don't know any of these languages, that doesn't matter. Just use a phrase.
+
+Comments:Note that for pathfinding, we don't specify what has to find a path
+ - you could make the player find a path though a maze, or you could make a
+ character move from A to B automatically. Also, there is no specific path
+ finding algorithm required, but A* path finding is an obvious candidate.
+
+ The unicode text has to be a phrase, you can't just include a unicode snowman
+ (☃) somewhere in your dialog and be done with it. For best results, use a
+ language with a completely different alphabet, and not a language that just
+ uses the latin alphabet with a few accented characters (such as French or
+ Swedish). It would be allowed (but not required) to just translate the game,
+ and make it available e.g. in English and Chinese. If you do so, you should
+ make it easy for reviewers to switch the game language.
+
+
+
+bonus
+
+**** There will be 1 bonus rule
+
+bonus rule #3
+Act of Formaldehyde: you can opt out of a rule if instead you decide to follow
+three other rules from a previous Speedhack/TINS. The rules page containing
+those rules should still be up for all to see.
+
+Comments:This rule is optional. If you choose to apply this rule, you may
+ ignore one of the other rules. As far as I can tell, all the previous
+ Speedhack/TINS rule pages are still online Three replacement rules may seem
+ like a lot, but by now there is so much speedhack history to choose from, that
+ you could probably choose any random commercial game, and find three
+ TINS/speedhack rules that match it just by chance.
+
+
+
+Retro size rule
+
+Finally, I want to add a reminder that for this competition, the size
+requirement for the game has been increased to 5Mb (after compression).
+However, those who manage to make their submission fit within the 400Kb limit
+of previous competitions, will receive a virtual "honour badge" that will be
+displayed next to your entry.

@@ -1,0 +1,1 @@
+Feel free to do whatever you please with this game's data (.ogg, .png, .ttf) and source code (.hpp and .cpp files), free of charge. However, please note that the /data/tff/misaki_gothic.ttf font has its own licensing (see README.txt).

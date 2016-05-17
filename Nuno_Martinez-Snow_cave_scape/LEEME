@@ -1,0 +1,73 @@
+                               Proyecto Genial
+                               ===============
+=========
+Contenido
+=========
+
+ - Introducción
+ - Licencia
+ - Instalación
+ - Compilación
+ - Cómo usarlo
+ - Información de contacto
+
+
+
+============
+Introducción
+============
+
+  Escribe una breve descripción del proyecto.
+
+
+
+========
+Licencia
+========
+
+  Escribe una breve descripción de la licencia.
+
+  Lea el archivo LICENSE para leer la licencia completa.
+
+
+
+===========
+Instalación
+===========
+
+  Explica cómo instalar el proyecto.
+
+
+
+===========
+Compilación
+===========
+
+  Abre una consola y cambia al directorio de proyecto.  En la mayoría de los
+  casos basta con escribir "cd project".
+
+  Ejecuta el archivo "fix.bat" si utilizas Windows o "./fix.sh" si utilizas
+  GNU/Linux y sigue las instruccions que aparezcan en pantalla.
+
+  Ejecuta el comando "make".  Esto debería crear el archivo ejecutable.
+  Si tienes algún problema, lee el apartado "Información de contacto.
+
+  Ejecuta el comando "make help" para ver todas las opciones disponibles.
+
+
+===========
+Cómo usarlo
+===========
+
+  Escribe una descripción de uso rápido.
+
+  Tienes documentación detallada en el directorio "docs".
+
+
+
+=======================
+Información de contacto
+=======================
+
+  Pon aquí lo necesario para que puedan contactar contigo, como tu 'wew', tu
+  correo electrónico, tu bitácora, etc.

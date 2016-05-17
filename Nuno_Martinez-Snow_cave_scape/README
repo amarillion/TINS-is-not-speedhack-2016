@@ -1,0 +1,71 @@
+                                   TINS 2015
+                                  =========
+========
+Contents
+========
+
+ - Introduction
+ - License
+ - Installation
+ - Compilation
+
+
+
+============
+Introduction
+============
+
+  This is my entry for TINS 2016.
+
+  It's much like Lucasarts Point'n'click adventures.  Use the mouse to select
+  the action or the object.
+
+  I have a very few time to build the game from scratch (no engine!) so be
+  nice with me.  If you use action "use", keep mouse over the second
+  object/place until action is finished.  If not, your avatar will not remember
+  what he was going to do.  I know: he's pretty stupid.  Well, he's trapped
+  in a cave in the south pole (Snow accomplished!!!).
+
+  I would like to finish the game.  Keep an eye to my TINS log and/or my
+  websites where I'll talk about this.
+  http://tins.amarillion.org/2016/log/4123
+  http://www.burdjia.com/
+  http://www.piopiojuegos.es/
+
+
+
+=======
+License
+=======
+
+  Read file LICENSE for complete license text.
+
+
+
+============
+Installation
+============
+
+  I think there's everything needed in the ZIP.
+
+  Windows 32bit executable is at directory "bin".  It should work on Linux+Wine.
+
+
+
+===========
+Compilation
+===========
+
+  You'll need Free Pascal.
+
+  Open a console and go to the project directory.  In most cases just use
+  "cd project".
+
+  Execute "fix.bat" on Windows or "./fix.sh" on GNU/Linux and follow the
+  on screen instructions.
+
+  Execute the "make" command.  This should create the executable files.
+  If you have problems contact me (see websites in introduction).
+
+  Execute "make help" to see all available options.
+

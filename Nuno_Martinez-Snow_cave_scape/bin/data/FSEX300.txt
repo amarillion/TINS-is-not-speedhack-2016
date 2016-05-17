@@ -1,0 +1,5 @@
+Borrowed from http://www.fixedsysexcelsior.com
+
+I think it's free, as said the FAQ:
+
+Fixedsys Excelsior is free. If you feel incredibly grateful, send me an email or a letter or something else, maybe rose-flavored Turkish Delight (my address is at the bottom). Other flavors are fine too but rose is my favorite. And I am generally more concerned with music than fonts, so if you have any of that stuff ... Also, if you use IRC, feel free to proselytize to your friends. My real intention, if I have one at all, is to make IRC a more natural world without removing its distinctive feeling. Sure, maybe you don’t speak Farsi, but next time you encounter someone who does, they’ll be typing in Arabic, not question marks or boxes. The ultimate form of this dream would be to have Fixedsys Excelsior distributed with mIRC or other IRC clients.
